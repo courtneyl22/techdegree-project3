@@ -1,5 +1,11 @@
 # techdegree-project3
-This is an interactive form. My project contains the following:
+The following code is for an interactive form to register to a conference. It isn't connected to any backend technologies. 
+
+Technologies used:
+- JavaScript
+- JQuery
+- HTML
+- CSS
 
 JQuery
 * Project includes jQuery and utilizes it in at least some aspect of the form.
